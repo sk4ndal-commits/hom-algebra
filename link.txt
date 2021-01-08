@@ -1,0 +1,12 @@
+
+# link zu bbb
+
+https://serv104.bbb.zih.tu-dresden.de/html5client/join?sessionToken=objj0c4zfhl7ouov
+
+# quellen
+
+Martin Brandenburg, Einfuehrung in die Kategorientheorie
+https://www.math.kit.edu/iag3/lehre/semalg2008w/media/vortrag3.pdf
+https://www.math.kit.edu/iag3/lehre/semhomolalg2012s/media/vortrag3-handout.pdf
+https://www.maths.ed.ac.uk/~v1ranick/papers/gelfmani.pdf
+

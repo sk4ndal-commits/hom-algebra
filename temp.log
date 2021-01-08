@@ -1,0 +1,233 @@
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.1.2)  7 JAN 2021 14:19
+ restricted system commands enabled.
+**temp.tex
+(./temp.tex
+LaTeX2e <2020-02-02> patch level 2
+[\directlua]:1: module 'luaotfload-main' not found:
+	no field package.preload['luaotfload-main']
+	[kpse lua searcher] file not found: 'luaotfload-main'
+	[kpse C searcher] file not found: 'luaotfload-main'
+Error in luaotfload: reverting to OT1 L3 programming layer <2020-02-14>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 54
+.
+
+(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+\c@part=\count163
+\c@section=\count164
+\c@subsection=\count165
+\c@subsubsection=\count166
+\c@paragraph=\count167
+\c@subparagraph=\count168
+\c@figure=\count169
+\c@table=\count170
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count171
+\l__pdf_internal_box=\box45
+)
+(./temp.aux)
+\openout1 = temp.aux
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 2.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 2.
+
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 7.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 43.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 43.
+
+Overfull \hbox (100.54243pt too wide) in paragraph at lines 47--47
+[][] 
+ []
+
+
+Overfull \hbox (43.6086pt too wide) in paragraph at lines 50--50
+[]
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--66
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+
+Overfull \hbox (0.53615pt too wide) in paragraph at lines 70--72
+[]\OT1/lmr/m/n/14.4 Sei A abelsche Kat-e-gorie und Kom(A) die Kat-e-gorie der K
+om-
+ []
+
+
+Overfull \hbox (6.63914pt too wide) in paragraph at lines 74--74
+[]
+ []
+
+
+Overfull \hbox (76.14589pt too wide) in paragraph at lines 76--76
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--89
+
+ []
+
+
+Overfull \hbox (197.62535pt too wide) in paragraph at lines 101--101
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+
+ []
+
+[3]
+Overfull \hbox (120.9501pt too wide) in paragraph at lines 113--113
+[][] 
+ []
+
+
+Overfull \hbox (30.51675pt too wide) in paragraph at lines 117--117
+[]
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+
+ []
+
+
+Overfull \hbox (21.98068pt too wide) in paragraph at lines 139--140
+[]\OT1/lmr/m/n/14.4 Sei S Lokalisierungsklasse von Kat-e-gorie B. Dann kann $\O
+ML/cmm/m/it/14.4 B\OT1/cmr/m/n/14.4 [\OML/cmm/m/it/14.4 S[]\OT1/cmr/m/n/14.4 ] 
+=:
+ []
+
+
+Overfull \hbox (79.81487pt too wide) in paragraph at lines 143--143
+[][] 
+ []
+
+
+Overfull \hbox (21.01451pt too wide) in paragraph at lines 145--145
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--145
+
+ []
+
+
+Overfull \hbox (9.06746pt too wide) in paragraph at lines 149--150
+[]\OT1/lmr/m/n/14.4 Sei $\OML/cmm/m/it/14.4 B \OMS/cmsy/m/n/14.4  \OML/cmm/m/i
+t/14.4 C$ \OT1/lmr/m/n/14.4 voll-staendige Un-terkat-e-gorie, S Lokalisierungsk
+lasse
+ []
+
+
+Overfull \hbox (65.65645pt too wide) in paragraph at lines 153--153
+[][] 
+ []
+
+[5] (./temp.aux))
+
+Here is how much of LuaTeX's memory you used:
+ 488 strings out of 481365
+ 100000,319454 words of node,token memory allocated
+ 368 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 2 glue, 48 glue_spec, 1 write nodes
+   avail lists: 2:12,3:133,4:3,5:175,6:23,7:1460,8:63,9:131,10:2,11:38
+ 17638 multiletter control sequences out of 65536+600000
+ 50 fonts using 4201603 bytes
+ 25i,8n,22p,182b,178s stack positions out of 5000i,500n,10000p,200000b,100000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/public/lm
+/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb>
+Output written on temp.pdf (5 pages, 162635 bytes).
+
+PDF statistics: 73 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 131072)
+ 1 words of extra memory for PDF output out of 10000 (max. 100000000)
+
