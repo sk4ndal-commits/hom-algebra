@@ -15,7 +15,7 @@
 Betrachte folgendes Setting\\
 - C, D Kategorien, $F : C \mapsto D$ Funktor, $B \subset C$, $a,b,s,q,x,z \in Obj(C)$, $f : a \mapsto b$ \\
 \newline
-Dann heisst\\
+Dann heißt\\
 - B  vollstaendige Unterkategorie von C, falls
 \begin{description}
     \item[i) $Obj(B) \subset Obj(C)$]
@@ -50,7 +50,7 @@ Dann heisst\\
 
 \subsection{Was ist eine abelsche Kategorie?}
 
-Sei A Kategorie. A heisst abelsch, falls $\forall X,Y,Z \in$ Obj(A):
+Sei A Kategorie. A heißt abelsch, falls fuer alle $X,Y,Z \in Obj(A)$:
 \begin{description}
     \item[i) $\forall f,f_1,f_2 \in Hom_A(X,Y), g,g_1,g_2 \in Hom_A(Y,Z):$]
         \[g \circ (f_1 + f_2) = g \circ f_1 + g \circ f_2\]
@@ -66,9 +66,9 @@ Sei A Kategorie. A heisst abelsch, falls $\forall X,Y,Z \in$ Obj(A):
 \subsection{Was sind Kettenkomplexe?}
 
 Eine Familie $C_n$ von Objekten aus abelschen Kategorie mit Morphismen $d_n : C_n \mapsto C_{n-1}$, sodass $d_n \circ d_{n+1} : C_{n+1} \mapsto C_{n-1} = 0$ 
-heisst Kettenkomplex. Dazu definieren wir $H_n(C) := ker(d_n) / im(d_{n+1})$ und bezeichnen dieses als Homologieobjekt. Ein Kettenkomplex $(C_*, d_*)$ 
-heisst exakt, falls alle $H_n(C)$ verschwinden. Wir nennen $Kom(A)$ die Kategorie der Kettenkomplexe abelscher Kategorien. Ein Morphismus $u : C \mapsto D$ 
-von Kettenkomplexen ist eine Familie von Morphsimen $u_n : C_n \mapsto D_n$. $u: C \mapsto D$ heisst quasi-Isomorphismus, falls alle 
+heißt Kettenkomplex. Dazu definieren wir $H_n(C) := ker(d_n) / im(d_{n+1})$ und bezeichnen dieses als Homologieobjekt. Ein Kettenkomplex $(C_*, d_*)$ 
+heißt exakt, falls alle $H_n(C)$ verschwinden. Wir nennen $Kom(A)$ die Kategorie der Kettenkomplexe abelscher Kategorien. Ein Morphismus $u : C \mapsto D$ 
+von Kettenkomplexen ist eine Familie von Morphsimen $u_n : C_n \mapsto D_n$. $u: C \mapsto D$ heißt quasi-Isomorphismus, falls alle 
 $H_n(C) \mapsto H_n(D)$ Isomorphismen sind.
 \newpage
 
@@ -76,14 +76,14 @@ $H_n(C) \mapsto H_n(D)$ Isomorphismen sind.
 \subsection{Definition}
 
 Sei A abelsche Kategorie und Kom(A) die Kategorie der Komplexe über A.
-Dann $\exists$ Kategorie D(A) und ein Funktor $Q: Kom(A) \mapsto D(A):$
+Dann existiert eine Kategorie D(A) und ein Funktor $Q: Kom(A) \mapsto D(A):$
 \begin{description}
     \item[i) $Q(f) \: ist \: Isomorphismus \: fuer \: jeden \: quasi-Isomorphismus \: f: A \mapsto B$:]
         \[H_n(A_0) \mapsto H_n(B_0) \: ist \: Isomorphismus\]
     \item[ii) $Fuer \: jeden \: Funktor \: F : Kom(A) \mapsto D \: gilt$:]
         \[\exists! Funktor \: G : D(A) \mapsto D: F = G \circ D\]
 \end{description}
-D(A) heisst abgeleitete Kategorie von A. A heisst halbeinfach, falls jedes exakte Triple
+D(A) heißt abgeleitete Kategorie von A. A heißt halbeinfach, falls jedes exakte Triple
 T in A isomorph zu $0 \mapsto X \mapsto X \oplus Y \mapsto Y \mapsto 0$ ist. 
 
 \subsection{Beweisskizze zur Existenz eine Lokalisierung}
